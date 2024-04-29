@@ -2,35 +2,66 @@
 
 # Basit Tkinter Uygulaması
 
-Bu proje, Tkinter kütüphanesi kullanılarak oluşturulmuş basit bir Python uygulamasını içerir. Uygulama, bir pencere oluşturur ve kullanıcıya "Selamla" butonuna basması durumunda bir mesaj kutusu gösterir.
+Bu proje, Python'un Tkinter kütüphanesi kullanılarak oluşturulmuş basit bir masaüstü uygulamasını içerir. Uygulama, bir pencere oluşturur ve kullanıcıya bir buton aracılığıyla selamlama mesajı gösterir.
 
-## Nasıl Kullanılır?
+## Özellikler
 
-1. Python'u bilgisayarınıza kurun (Python 3 önerilir).
-2. Kodu bir metin düzenleyicide açın ve çalıştırın.
-3. Uygulama başladığında, "Selamla" butonuna tıklayarak mesaj kutusunu açabilirsiniz.
-4. Mesaj kutusu, "Heyy \n Naaberr.." içeriğiyle belirecektir.
+- Basit ve kullanıcı dostu arayüz.
+- Tek bir butonla kolay kullanım.
+- Tkinter messagebox kullanımı.
 
-## Gereksinimler
+## Kurulum
 
-- Python 3.x
-- Tkinter kütüphanesi
+1. Python'u [buradan](https://www.python.org/downloads/) indirin ve kurun. (Python 3 önerilir.)
+2. Bu projeyi bilgisayarınıza indirin veya klonlayın:
 
-## Kod Yapısı
+    ```bash
+    git clone https://github.com/Tsunayunon/Tkinter-Basit-Uygulama.git
+    ```
 
-- `main.py`: Ana uygulama kodunu içerir.
-- `README.md`: Bu dosya.
-- Diğer dosyalar: İlgili kaynak dosyaları.
+3. Projenin bulunduğu dizine gidin:
+
+    ```bash
+    cd Tkinter-Basit-Uygulama
+    ```
+
+4. Uygulamayı çalıştırın:
+
+    ```bash
+    python main.py
+    ```
+
+## Ekran Görüntüleri
+
+![Uygulama Ekranı](screenshots/app_screenshot.png)
+
+## Kullanım
+
+1. Uygulama başladığında, "Buton" adında bir buton görünecektir.
+2. "Buton" butonuna tıkladığınızda, bir mesaj kutusu belirecektir ve içeriği "Heyy \n Naaberr.." olacaktır.
 
 ## Katkıda Bulunma
 
-1. Bu deposu (repository) klonlayın: https://github.com/Tsunayunon?tab=repositories
+1. Bu depoyu (repository) klonlayın:
+
+    ```bash
+    git clone https://github.com/Tsunayunon/Tkinter-Basit-Uygulama.git
+    ```
+
 2. Yeni özellikler ekleyin veya hataları düzeltin.
-3. Değişikliklerinizi commitleyin: `git commit -m 'Yeni özellik eklendi'`
-4. Değişiklikleri ana depoya (repository) gönderin: `git push origin main`
+3. Değişikliklerinizi commitleyin:
+
+    ```bash
+    git commit -m 'Yeni özellik eklendi'
+    ```
+
+4. Değişiklikleri ana depoya (repository) gönderin:
+
+    ```bash
+    git push origin main
+    ```
 
 ## Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için [LICENSE](LICENSE) dosyasına bakınız.
-
 ---
