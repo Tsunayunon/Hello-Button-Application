@@ -24,7 +24,7 @@ Bu proje, Tkinter kütüphanesi kullanılarak oluşturulmuş basit bir Python uy
 
 ## Katkıda Bulunma
 
-1. Bu deposu (repository) klonlayın: `git clone https://github.com/your-username/your-repo.git`
+1. Bu deposu (repository) klonlayın: `[git clone https://github.com/your-username/your-repo.git](https://github.com/Tsunayunon)`
 2. Yeni özellikler ekleyin veya hataları düzeltin.
 3. Değişikliklerinizi commitleyin: `git commit -m 'Yeni özellik eklendi'`
 4. Değişiklikleri ana depoya (repository) gönderin: `git push origin main`
