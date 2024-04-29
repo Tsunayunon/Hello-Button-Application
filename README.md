@@ -31,9 +31,7 @@ Bu proje, Python'un Tkinter kütüphanesi kullanılarak oluşturulmuş basit bir
     python main.py
     ```
 
-## Ekran Görüntüleri
 
-![Uygulama Ekranı](screenshots/app_screenshot.png)
 
 ## Kullanım
 
